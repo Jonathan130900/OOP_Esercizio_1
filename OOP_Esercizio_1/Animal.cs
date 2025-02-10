@@ -27,7 +27,7 @@ namespace OOP_Esercizio_1
 
         public void showAnimalData()
         {
-            Console.WriteLine(FirstName + " also known as " + Nickname + " was a " + Species + " that participated in " + Mission + ", part of the U.S. space program's Project Mercury. He's currently buried at the " + RestingPlace);
+            Console.WriteLine(FirstName + " also known as " + Nickname + ", previously known as " + CodeName + ", was a " + Species + " that participated in " + Mission + ", part of the U.S. space program's Project Mercury. He's currently buried at the " + RestingPlace);
         }
     }
 }

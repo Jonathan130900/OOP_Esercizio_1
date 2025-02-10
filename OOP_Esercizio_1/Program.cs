@@ -6,7 +6,7 @@ var employee = new Employee("Gabe", "'Gaben'", "Newell", 62, "video game develop
 
 var animal = new Animal("Ham", "'Ham the Astrochimp'", "No 65", "chimpanzee", "Mercury-Redstone 2", "Museum of Space History New Mexico");
 
-var vehicle = new Vehicle("DMC DeLorean", "'Back To The Future'", "DeLorean Motor Company", 1981, 1983, "Giogetto Giugiaro");
+var vehicle = new Vehicle("DMC DeLorean", "'Back To The Future'", "DeLorean Motor Company", 1981, 1983, "Giorgetto Giugiaro");
 
 
 athlete.showAthleteData();

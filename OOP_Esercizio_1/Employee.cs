@@ -27,7 +27,7 @@ namespace OOP_Esercizio_1
 
         public void showEmployeeData()
         {
-            Console.WriteLine(FirstName + "" + Nickname + "" + LastName + " is " + Age + " old. He's a " + Profession + " currently working for the " + Employer);
+            Console.WriteLine(FirstName + " " + Nickname + " " + LastName + " is " + Age + " years old. He's a " + Profession + " currently working for " + Employer);
         }
     }
 }
